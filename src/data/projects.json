@@ -8,7 +8,7 @@
     "source": "https://github.com/meghads/PlantDiseaseClassifierDL" 
   },
   {
-    "title": "Orbury WebApp",
+    "title": "Orrery WebApp",
     "imageSrc": "projects/orrery_app.jpeg", 
     "description": "Developed a web application using Streamlit for interactive exploration of the solar system. Utilized NASA APIs to fetch and display real-time planetary data.",
     "skills": ["Python", "JavaScript", "HTML", "CSS", "NASA APIs"], 
