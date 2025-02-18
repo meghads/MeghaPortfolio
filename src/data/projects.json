@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Plant Disease Classifier",
+    "imageSrc": "projects/plant_disease.jpeg", 
+    "description": "Developed a deep learning model for detecting and classifying plant diseases from leaf images using image classification techniques.",
+    "skills": ["Python", "TensorFlow/Keras", "CNNs", "Image Processing"], 
+    "demo": "", 
+    "source": "https://github.com/meghads/PlantDiseaseClassifierDL" 
+  },
+  {
+    "title": "Orbury WebApp",
+    "imageSrc": "projects/orrery_app.jpeg", 
+    "description": "Developed a web application using Streamlit for interactive exploration of the solar system. Utilized NASA APIs to fetch and display real-time planetary data.",
+    "skills": ["Python", "JavaScript", "HTML", "CSS", "NASA APIs"], 
+    "demo": "", 
+    "source": "https://github.com/meghads/Orrery-webapp" 
+  },
+  {
+    "title": "PII Detection and Masking System",
+    "imageSrc": "projects/pii.jpeg", 
+    "description": "Implemented a system to detect and mask Personally Identifiable Information (PII) in documents for privacy protection. Developed regular expressions to identify PII such as Aadhaar, PAN, and other sensitive data.  Built the system using Python and regular expressions.",
+    "skills": ["Python", "Regular Expressions", "Data Privacy", "Security"], 
+    "demo": "", 
+    "source": "https://github.com/meghads/PIIStreamlit" 
+  },
+  {
+    "title": "Decentralized Voting System",
+    "imageSrc": "projects/voting.jpeg", 
+    "description": "Designed and developed a decentralized voting system using blockchain technology to ensure transparency and security in elections. Implemented smart contracts for secure ballot casting and result tallying. Developed the front-end using React for user interaction.",
+    "skills": ["Solidity", "Ethereum", "React", "Blockchain", "Smart Contracts"], 
+    "demo": "", 
+    "source": "https://github.com/meghads/Democrachain"   
+  }
+]
